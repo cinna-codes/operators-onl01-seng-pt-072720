@@ -19,5 +19,3 @@ speed < 40 ? "true" : "false"
 # speed < 40 ? "true" : "false"
 # 40 < speed < 60 ? return false : return true
 end
-
-
